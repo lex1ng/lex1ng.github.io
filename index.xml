@@ -11,9 +11,9 @@
     <atom:link href="https://www.lex1ng.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>测试模版是否可用</title>
-      <link>https://www.lex1ng.github.io/1205/</link>
+      <link>https://www.lex1ng.github.io/%E6%B5%8B%E8%AF%95%E6%A8%A1%E7%89%88%E6%98%AF%E5%90%A6%E5%8F%AF%E7%94%A8/</link>
       <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.lex1ng.github.io/1205/</guid>
+      <guid>https://www.lex1ng.github.io/%E6%B5%8B%E8%AF%95%E6%A8%A1%E7%89%88%E6%98%AF%E5%90%A6%E5%8F%AF%E7%94%A8/</guid>
       <description>&lt;h1 id=&#34;测试模版1---文字&#34;&gt;测试模版1 - 文字&lt;/h1&gt;&#xA;&lt;p&gt;12312312312&lt;/p&gt;&#xA;&lt;h1 id=&#34;测试模版2---图片&#34;&gt;测试模版2 - 图片&lt;/h1&gt;&#xA;&lt;p&gt;插入一个图片&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://lex1ng.github.io//images/Pasted%20image%2020250114120611.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;插入一个外链&#34;&gt;插入一个外链&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;www.google.com&#34;&gt;google&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
